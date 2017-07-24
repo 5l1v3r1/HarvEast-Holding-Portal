@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.38" height="15.375" viewBox="0 0 15.38 15.375">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #bababa;
+        stroke-width: 1.5px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="поиск_открыт.svg" data-name="поиск открыт.svg" class="cls-1" d="M1201.59,70.6a5,5,0,1,1-4.99,5A5,5,0,0,1,1201.59,70.6Zm3.08,8.463,0.39-.392,5.1,5.1-0.39.392Z" transform="translate(-1195.84 -69.844)"/>
+</svg>

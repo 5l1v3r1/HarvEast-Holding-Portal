@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.438" height="7.406" viewBox="0 0 13.438 7.406">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #666;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="стрелка_меню_вниз.svg" data-name="стрелка меню вниз.svg" class="cls-1" d="M658.864,965.5l-6.364,6.364-6.364-6.364" transform="translate(-645.781 -965.156)"/>
+</svg>

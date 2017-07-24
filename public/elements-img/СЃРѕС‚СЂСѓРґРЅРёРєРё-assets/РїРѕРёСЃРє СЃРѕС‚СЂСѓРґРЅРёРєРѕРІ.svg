@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.562" height="18.562" viewBox="0 0 18.562 18.562">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #bababa;
+        stroke-width: 1.5px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="поиск_сотрудников.svg" data-name="поиск сотрудников.svg" class="cls-1" d="M367.106,867.927a6.179,6.179,0,1,1-6.179,6.179A6.179,6.179,0,0,1,367.106,867.927Zm3.8,10.463,0.484-.485,6.3,6.3-0.485.485Z" transform="translate(-360.188 -867.188)"/>
+</svg>

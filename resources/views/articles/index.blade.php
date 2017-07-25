@@ -5,7 +5,7 @@
         <search-article></search-article>
         <div class="goTopBtn">
 			<a href="#goTopAnc">Наверх</a>
-			<img class="goTopBtn_arrow" src="/public/elements-img/orders-svg/arrow-up.svg" alt="arrow">
+			<img class="goTopBtn_arrow" src="/elements-img/orders-svg/arrow-up.svg" alt="arrow">
 		</div>
     </div>
 @endsection

@@ -4,7 +4,7 @@
 		<div class="logoBig_wrap">
 			<div class="whiteBox">
 				<div class="asideNews_logo">
-					<img src="/public/elements-img/logo/harveast-logo-big.svg" alt="Logo">
+					<img src="/elements-img/logo/harveast-logo-big.svg" alt="Logo">
 				</div>
 			</div>
 		</div>

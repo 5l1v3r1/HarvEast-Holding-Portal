@@ -6,7 +6,7 @@
                 <section class="loginSection news_column">
                     <div class="loginForm_logo">
                         <!-- <div class="logo_img"></div> -->
-                        <img src="/public/elements-img/logo/harveast-logo-big.svg" alt="Logo">
+                        <img src="/elements-img/logo/harveast-logo-big.svg" alt="Logo">
                     </div>
                     <div class="loginForm_wrap">
                         @if ($errors->has('password'))
